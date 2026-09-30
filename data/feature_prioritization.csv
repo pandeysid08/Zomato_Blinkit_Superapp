@@ -1,0 +1,6 @@
+feature,reach_pct,impact,confidence_pct,effort_pm,value,kano,rice,value_vs_effort
+Cross-bundling (food + grocery in one cart),40,2.0,70,6,8,Performance,9.333333333333334,1.3333333333333333
+Unified subscription (one membership),30,2.0,60,8,8,Performance,4.5,1.0
+'15-min Essentials' tab on Zomato,50,1.0,80,3,6,Attractive,13.333333333333334,2.0
+Unified wallet / single checkout,60,0.5,80,4,5,Must-be,6.0,1.25
+Cross-app recommendations,35,1.0,50,5,5,Attractive,3.5,1.0

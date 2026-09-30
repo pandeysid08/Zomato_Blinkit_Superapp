@@ -1,0 +1,27 @@
+metric,business,period,value,unit,source_id
+B2C NOV,Eternal (group),Q1 FY27,31120,INR crore,S1
+B2C NOV YoY growth,Eternal (group),Q1 FY27,54,percent,S1
+Consolidated adjusted revenue,Eternal (group),Q1 FY27,20648,INR crore,S1
+Consolidated adjusted EBITDA,Eternal (group),Q1 FY27,555,INR crore,S1
+Avg monthly transacting customers,Zomato (food delivery),Q1 FY27,27.2,million,S2
+Avg monthly transacting customers,Zomato (food delivery),Q1 FY26,22.9,million,S2
+Avg monthly active restaurant partners,Zomato (food delivery),Q1 FY27,328000,count,S2
+Avg monthly active delivery partners,Zomato (food delivery),Q1 FY27,638000,count,S2
+Avg monthly transacting customers,Blinkit,Q1 FY27,31.8,million,S2
+Avg monthly transacting customers,Blinkit,Q1 FY26,16.9,million,S2
+Net average order value,Blinkit,Q1 FY27,518,INR,S2
+Net average order value,Blinkit,Q4 FY26,525,INR,S2
+Net average order value,Blinkit,Q1 FY26,521,INR,S2
+Dark store count,Blinkit,Q1 FY27,2443,count,S2
+Dark store count,Blinkit,Q4 FY26,2243,count,S2
+Dark store count,Blinkit,Q1 FY26,1544,count,S2
+Avg NOV per day per store,Blinkit,Q1 FY27,8.27,INR lakh,S2
+Avg NOV per day per store,Blinkit,Q1 FY26,7.34,INR lakh,S2
+Steady-state NOV per day per store (mgmt assumption),Blinkit,Guidance,11,INR lakh,S2
+Steady-state capex per store incl. warehousing,Blinkit,Guidance,2.5,INR crore,S2
+Inventory loss as share of NOV,Blinkit,Q1 FY27,1.8,percent,S2
+Steady-state ROCE guidance,Blinkit,Guidance,40,percent,S3
+Steady-state EBITDA margin guidance,Blinkit,Guidance,6,percent,S3
+Share of Eternal Q1 revenue,Blinkit,Q1 FY27,78,percent,S3
+Blinkit NOV,Blinkit,Q1 FY26,9203,INR crore,S4
+Zomato NOV,Zomato (food delivery),Q1 FY26,8967,INR crore,S4
